@@ -1,0 +1,16 @@
+.btn-style {
+    width: 40px;
+    --bs-btn-bg: #f7f9faff;
+}
+.btn-outline-secondary {
+    --bs-btn-border-color: #dfe2e6ff;
+    color: #f7f9faff;
+}
+.nav-pills .nav-link, .nav-pills .show>.nav-link {
+    background-color: white;
+    color: #9FA6B2;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: white;
+    color:blue;
+}
